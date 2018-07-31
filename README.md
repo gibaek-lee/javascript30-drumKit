@@ -12,6 +12,10 @@ Press your 'a, s, d, f, g, h, j, k, l' keys which are correspond to each drum ki
 
 Check each sounds of all drum kit elements with simple key press animation.
 
+<p align="center">
+  <img width="460" height="300" src="./image/main.png">
+</p>
+
 ### And coding style tests
 
 All keys are linked to one key press eventlistener includes sound and animation effect.
@@ -22,9 +26,11 @@ But I suppose that it is better to use 'keyCode' way of event listening which is
 No frameworks x No compilers x No libraries x No boilerplate. Vanilla JavaScript!
 
 ## Authors
-Gi-baek lee, first commit, No contribution.
+Gi-baek lee, first commit, No contribution. [More about me, LinkedIn](www.linkedin.com/in/kibaeklee)
 
 ## License
-Course Name: Javascript 30
-Course Instructor: Wes Bros
-Course Web site: https://javascript30.com/
+- Course Name: Javascript 30
+- Course Instructor: Wes Bros
+- Course Web site: [JavaScript30](https://javascript30.com/)
+- Drumkit sounds: [Wes Bros Github page](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit/sounds)
+- Background Image: [PIXABAY](https://pixabay.com/)
