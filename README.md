@@ -8,9 +8,7 @@ This is a simple keyboard drum kit.
 No installation. Just fork this repository and pull it to your local enviroment, run index.html on internet browser(in my case, Chrome).
 
 ### Break down into end to end tests
-Press your 'a, s, d, f, g, h, j, k, l' keys which are correspond to each drum kit 'clap, hihat, kick, openhat, boom, ride, snare, tom, tink'.
-
-Check each sounds of all drum kit elements with simple key press animation.
+Press your 'a, s, d, f, g, h, j, k, l' keys which are correspond to each drum kit 'clap, hihat, kick, openhat, boom, ride, snare, tom, tink'. Check each sounds of all drum kit elements with simple key press animation.
 
 <p align="center">
   <img width="460" height="300" src="./image/main.png">
@@ -26,7 +24,7 @@ But I suppose that it is better to use 'keyCode' way of event listening which is
 No frameworks x No compilers x No libraries x No boilerplate. Vanilla JavaScript!
 
 ## Authors
-Gi-baek lee, first commit, No contribution. [More about me, LinkedIn](www.linkedin.com/in/kibaeklee)
+Gi-baek lee, first commit, No contribution. [More about me, LinkedIn](https://www.linkedin.com/in/kibaeklee)
 
 ## License
 - Course Name: Javascript 30
