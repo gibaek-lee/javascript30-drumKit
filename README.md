@@ -5,7 +5,7 @@ Keyboard drum kit(Vanilla javascript coding challenge day1)
 This is a simple keyboard drum kit.
 
 ## Running the tests
-No installation. Just fork this repository and pull it to your local enviroment, run index.html on internet browser(in my case, Chrome).
+No installation. Just fork this repository and pull it to your local enviroment, run index.html on internet browser(in my case, Chrome). Or, click [here](https://ginnyang2.github.io/javascript30-drumKit/)
 
 ### Break down into end to end tests
 Press your 'a, s, d, f, g, h, j, k, l' keys which are correspond to each drum kit 'clap, hihat, kick, openhat, boom, ride, snare, tom, tink'. Check each sounds of all drum kit elements with simple key press animation.
